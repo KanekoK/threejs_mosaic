@@ -30,7 +30,7 @@
     "@types/three": "^0.92.3",
     "@types/webfontloader": "^1.6.29",
     "gsap": "^2.0.1",
-    "three": "^0.93.0",
+    "three": "^0.137.0",
     "webfontloader": "^1.6.28"
   }
 }
